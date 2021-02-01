@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TipCalculator
 //
-//  Created by Haiying on 1/30/21.
+//  Created by Haiying Man on 1/30/21.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipAmountLabel: UILabel!
     @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var totalLabel: UILabel!
-    
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
