@@ -19,7 +19,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/7QYOdvc.gif)
+<a href="https://i.imgur.com/7QYOdvc.gif"><img src="https://i.imgur.com/7QYOdvc.gif"/></a>
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
